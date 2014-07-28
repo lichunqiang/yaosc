@@ -1,0 +1,7 @@
+doc/
+example/
+test/
+.travis.yml
+.jshintrc 
+.jshintignore
+.gitignore

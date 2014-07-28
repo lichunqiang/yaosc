@@ -1,0 +1,28 @@
+{
+  "name": "yaosc",
+  "version": "0.0.1",
+  "description": "yet another oschina api node.js client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lichunqiang/yaosc"
+  },
+  "keywords": [
+    "oschina",
+    "node-oschina-api",
+    "osc",
+    "api"
+  ],
+  "author": "light",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichunqiang/yaosc/issues"
+  },
+  "homepage": "https://github.com/lichunqiang/yaosc",
+  "dependencies": {
+    "request": "^2.39.0"
+  }
+}
