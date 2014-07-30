@@ -1,4 +1,4 @@
 Yet another oschina api Node.js client
 ------------------
 
-> deving...
+> http://www.oschina.net/openapi
